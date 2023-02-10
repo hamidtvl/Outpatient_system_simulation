@@ -1,9 +1,9 @@
 this code was developed during simulation course as Uottawa.
-it simulates an outpatient clinic system for 60 days having 2 nurses(servers). the code is flexible and I used it to try different combinations of the number of servers and also different input rate of put patients .
+it simulates an outpatient clinic system for 60 days having 2 nurses(servers). the code is flexible and I used it to try different combinations of the number of servers and also different input rate of out patients .
 
 
 
-For the python code, I tried our best to clarify the code as much as possible by commenting almost every line. If there is still any question on how the code works, please contact ME.
+For the python code, I tried my best to clarify the code as much as possible by commenting almost every line. If there is still any question on how the code works, please contact ME.
 
 *Variables get reset after each day (each simulation scenario is 60 day long). Therefore, the remaining variable at the end of the simulation just shows the output variables and results of day 60*
 
